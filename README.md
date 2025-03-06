@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hi! I'm Diego</h1>
-<h3 align="center">Full Stack Developer | AI & Data Analytics | Materials Engineer | </h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00C853,50:7B1FA2,100:0D47A1&text=👋🏻Hi!%20i'm%20Diego&section=header&reversal=true&fontColor=FFFFFF&textBg=false&fontAlign=50&fontAlignY=50&animation=scaleIn&descAlign=50&descAlignY=75&desc=Full%20Stack%20Developer%20|%20AI%20y%20Data%20Analytics%20|%20Materials%20Engineer%20|&descSize=25" />
+</div>
 
 ---
 
