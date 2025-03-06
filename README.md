@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0B0D0F,25:102A43,50:1B3A75,75:005572,100:081B29&text=👋🏻Hi!%20i'm%20Diego&section=header&reversal=true&fontColor=FFFFFF&textBg=false&fontAlign=50&fontAlignY=41&animation=scaleIn&descAlign=50&descAlignY=85&desc=Full%20Stack%20Developer%20|%20AI%20-%20Data%20Analytics%20|%20Materials%20Engineer%20|&descSize=25&fontSize=70" />
 </div>
